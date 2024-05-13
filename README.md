@@ -1,4 +1,4 @@
-# Dicoding-Project
+# Dicoding-Project  ROCK-PAPER-SCISSORS CLASIFICATION
 Dicoding Project
 
 Berikut kriteria submission yang harus Anda penuhi:
