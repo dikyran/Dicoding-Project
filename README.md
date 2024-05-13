@@ -11,3 +11,14 @@ Berikut kriteria submission yang harus Anda penuhi:
 - Pelatihan model tidak melebihi waktu 30 menit.
 - Program dikerjakan pada Google Colaboratory.
 - Akurasi dari model minimal 85%.
+
+
+
+# Penilaian 
+Submission Anda akan dinilai oleh reviewer dengan penilaian bintang berskala 1-5 berdasarkan dari parameter yang ada.
+
+Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
+- Akurasi dari model di atas 85%
+- Anda menggunakan lebih dari 1 hidden layer.
+- Menerapkan lebih banyak augmentasi gambar.
+- Anda menggunakan optimizer dan loss-function yang tidak diajarkan di kelas.
